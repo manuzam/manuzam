@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**manuzam/manuzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Manuela Zambenedetti dos Santos 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura;](www.alura.com.br)
+- Estou me desenvovendo na linguagem JavaScript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projeitos desenvolvidos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo; 📫
+
+manuela.zambenedetti.santos@escola.pr.gov.br
+
+@_manuzam_
+
+![](https://media.tenor.com/N2yXUEPaUCcAAAAd/harry-potter.gif)
